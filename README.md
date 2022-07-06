@@ -1,2 +1,2 @@
 # ByteDanceHomework
-This is the Homework of Zhao Jian in the  ByteDance 's open course
+This is the Homework of Zhao Jian in the  ByteDance 's course
