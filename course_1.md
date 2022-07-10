@@ -77,10 +77,10 @@ UIViewController，UIView， UITextField，UICollectionView，UIWebView
 
 ```objective-c
 - (CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath;
-//	定义每个UITableView中的cell的行高
+//定义每个UITableView中的cell的行高
 - (NSString *)tableView:(UITableView *)tableView titleForHeaderInSection:(NSInteger)section;  
-//	设置UITableView每个分组的Header的Title
+//设置UITableView每个分组的Header的Title
 - (CGFloat)tableView:(UITableView *)tableView heightForHeaderInSection:(NSInteger)section;
-// 设置UITableView分组Header的高
+//设置UITableView分组Header的高
 ```
 
