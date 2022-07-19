@@ -12,4 +12,5 @@
 int main(){
     Student *stu=[Student new];
     [stu study:5.00];
+    return(0);
 }
